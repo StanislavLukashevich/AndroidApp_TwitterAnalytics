@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Twitter Analytics</string>
+    <string name="twitter_username_hint">Twitter Username...</string>
+    <string name="twitter_username">Twitter Username</string>
+    <string name="please_enter_username">Please enter a valid Twitter username:</string>
+    <string name="enter_number_of_tweets">Enter the number of last tweets you want to analyze:</string>
+    <string name="number_of_tweets">Number of tweets</string>
+    <string name="analyze">Analyze</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login2">LOGIN</string>
+    <string name="signup">SIGN UP</string>
+
+
+    <string-array name="number_tweets_array">
+        <item>15</item>
+        <item>30</item>
+        <item>50</item>
+    </string-array>
+
+</resources>
